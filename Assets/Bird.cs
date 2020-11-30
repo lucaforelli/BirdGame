@@ -67,5 +67,5 @@ public class Bird : MonoBehaviour
         //set newPosition to x and y, in order to make bird visible
          transform.position = new Vector3(newPosition.x, newPosition.y);
     } 
-    
+    // final change 
 }
