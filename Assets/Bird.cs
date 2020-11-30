@@ -39,7 +39,7 @@ public class Bird : MonoBehaviour
             SceneManager.LoadScene(currentSceneName); 
         }
     }
-
+    //github test for branch
     //method call everytime mouse is pressed on bird
   private void OnMouseDown()
     {
