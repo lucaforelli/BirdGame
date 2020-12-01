@@ -42,8 +42,7 @@ public class Bird : MonoBehaviour
             SceneManager.LoadScene(currentSceneName); 
         }
     }
-    //github test for branch
-    // test 2
+
 
     //method call everytime mouse is pressed on bird
   private void OnMouseDown()
@@ -73,5 +72,4 @@ public class Bird : MonoBehaviour
         //set newPosition to x and y, in order to make bird visible
          transform.position = new Vector3(newPosition.x, newPosition.y);
     } 
-    // final change 
 }
