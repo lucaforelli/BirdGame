@@ -572,7 +572,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 4.4536147
+  orthographic size: 5.7125
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -596,7 +596,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.4500027, y: -6.710002, z: -10}
+  m_LocalPosition: {x: 0.2750001, y: -2.25, z: -12}
   m_LocalScale: {x: 2.011822, y: 2.6892266, z: 2.011822}
   m_Children: []
   m_Father: {fileID: 0}
@@ -749,7 +749,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 829939678}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.4500027, y: -6.710002, z: -10}
+  m_LocalPosition: {x: 0.2750001, y: -2.25, z: -12}
   m_LocalScale: {x: 0.92236, y: 0.92236, z: 0.92236}
   m_Children:
   - {fileID: 705392020}
@@ -1470,6 +1470,7 @@ GameObject:
   - component: {fileID: 1752385155}
   - component: {fileID: 1752385156}
   - component: {fileID: 1752385157}
+  - component: {fileID: 1752385158}
   m_Layer: 0
   m_Name: GreenBird
   m_TagString: Untagged
@@ -1866,6 +1867,18 @@ LineRenderer:
     generateLightingData: 0
   m_UseWorldSpace: 1
   m_Loop: 0
+--- !u!114 &1752385158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1752385150}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3257bb434631db459544cffbfffb8fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2024994081
 GameObject:
   m_ObjectHideFlags: 0
