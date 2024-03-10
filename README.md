@@ -6,12 +6,14 @@ The more obstacles you hit consecutively, the higher your score.
 
 
 **Prerequisites**
+
 To work on the project, you will need a Unity version of at least 2019.1.8 or higher (64-bit).
 Scripting Runtime Version - .net 4.x Equivalent
 
 **Installation:**
+
 * Clone the repository to your local machine:
-* code(git clone https://github.com/your-username/sky-soarer.git
+* `code(git clone https://github.com/your-username/sky-soarer.git)`
 )
 
 
