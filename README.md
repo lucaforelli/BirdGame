@@ -13,12 +13,14 @@ Scripting Runtime Version - .net 4.x Equivalent
 **Installation:**
 
 * Clone the repository to your local machine:
-  * `git clone https://github.com/your-username/sky-soarer.git`
+  * `git clone https://github.com/your-username/-.git`
 * Open the unity project.
 * Build and run the game.
 
-## Controls ##
+## How to Play ##
 
-**Slingshot Launch:** Click and drag to adjust the launch trajectory, release to launch.
+* **Slingshot Launch:** Click and drag to adjust the launch trajectory, release to launch.
+* **Hit Obstacles:** Aim to hit obstacles with the bird to score points.
+* **Accumulate Points:** The more obstacles you hit consecutively, the higher your score.
 
 
