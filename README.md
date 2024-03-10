@@ -1,14 +1,16 @@
 # BirdGame
-In this game, the target is to launch a bird in the sky and attempt to hit obstacles.
-Deleloped using Unity platform.
+**General Description**
+In this 2D game, deleloped using the Unity platform, the target is to launch a bird using a slingshot in the sky and attempt to hit obstacles. 
+The more obstacles you hit consecutively, the higher your score.
+
 
 **Prerequisites**
-
 To work on the project, you will need a Unity version of at least 2019.1.8 or higher (64-bit).
 Scripting Runtime Version - .net 4.x Equivalent
+
 **Installation:**
-* Create a new project in Unity.
-* Download Assets and ProjectSettings and place them in the folder of your new project.
-* Open the desired scene in the Scenes directory.
+* Clone the repository to your local machine:
+* code(git clone https://github.com/your-username/sky-soarer.git
+)
 
 
