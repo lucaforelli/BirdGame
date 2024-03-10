@@ -13,7 +13,7 @@ Scripting Runtime Version - .net 4.x Equivalent
 **Installation:**
 
 * Clone the repository to your local machine:
-  * `git clone https://github.com/your-username/-.git`
+  * `git clone https://github.com/lucaforelli/BirdGame.git`
 * Open the unity project.
 * Build and run the game.
 
