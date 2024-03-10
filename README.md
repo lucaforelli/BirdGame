@@ -1,5 +1,6 @@
 # BirdGame
 **General Description**
+
 In this 2D game, deleloped using the Unity platform, the target is to launch a bird using a slingshot in the sky and attempt to hit obstacles. 
 The more obstacles you hit consecutively, the higher your score.
 
