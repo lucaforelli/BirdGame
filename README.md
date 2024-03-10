@@ -13,7 +13,7 @@ Scripting Runtime Version - .net 4.x Equivalent
 **Installation:**
 
 * Clone the repository to your local machine:
-* `code(git clone https://github.com/your-username/sky-soarer.git)`
+* `git clone https://github.com/your-username/sky-soarer.git`
 )
 
 
